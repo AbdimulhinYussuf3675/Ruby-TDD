@@ -13,4 +13,11 @@ describe Solver do
       expect(@solver.factorial(0)).to eq 1
     end
   end
+
+  describe '#reverse' do
+    it 'reverse the input string' do
+      expect(@solver.reverse('keenan')).to eq 'naneek'
+    end
+  end
+  end
 end
