@@ -1,5 +1,8 @@
-# Ruby-TDD
+
 <a name="readme-top"></a>
+<div align="center">
+  <h1><b>TDD project</b></h1>
+</div>
 
 <!-- TABLE OF CONTENTS -->
 
@@ -7,8 +10,7 @@
 
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
-    - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
+    - [Key Features](#key-features
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -22,7 +24,7 @@
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
 - [❓ FAQ](#faq)
-- [📝 License](#license)
+
 
 <!-- PROJECT DESCRIPTION -->
 
@@ -37,8 +39,7 @@
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
-
-- A simple code to use `TDD project` in Ruby. 
+ 
 -This project implemented a class with some methods by doing test-driven development (TDD)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -79,13 +80,13 @@ $ git clone https://github.com/AbdimulhinYussuf3675/Ruby-TDD.git
 
 In the terminal, run these commands to get into development.
 ```
-$ cd School-library
+$ cd Ruby-TDD
 
 $ bundle init
 
 $ bundle install (install dependencies)
 
-$ ruby main.rb (run the app locally)
+$ runcode
 ```
 
 <!-- AUTHORS -->
