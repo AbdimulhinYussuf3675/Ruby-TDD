@@ -19,5 +19,13 @@ describe Solver do
       expect(@solver.reverse('keenan')).to eq 'naneek'
     end
   end
+
+  describe '#fizzbuzz' do
+    it 'returns constructed string' do
+      expect(@solver.fizzbuzz(15)).to eq 'fizzbuzz'
+      expect(@solver.fizzbuzz(3)).to eq 'fizz'
+      expect(@solver.fizzbuzz(5)).to eq 'buzz'
+      expect(@solver.fizzbuzz(7)).to eq '7'
+    end
   end
 end
